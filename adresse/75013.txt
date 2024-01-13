@@ -1,0 +1,62 @@
+, Rue d'Alésia
+, Rue du Saint-Gothard
+2, Passage Montbrun
+, Place Denfert-Rochereau
+51, Rue de la Tombe Issoire
+, Avenue René Coty
+, Rue Boulard
+, Allée Samuel Beckett
+11, Rue Ernest Cresson
+, Avenue du Général Leclerc
+, Portiques d'Orléans
+1, Rue de Grancey
+, Place Ferdinand-Brunot
+, Impasse Louvat
+, Rue Gassendi
+10 bis, Rue Daguerre
+, Place Michel Audiard
+6, Rue Brézin
+8, Rue Sophie Germain
+11, Rue du Lunain
+, Boulevard Arago
+, Rue Thibaud
+6, Passage Dareau
+, Rue Rémy Dumoncel
+4, Avenue du Colonel Henri Rol Tanguy
+8, Villa Hallé
+11, Cité Annibal
+56, Rue Hallé
+, Rue Saint-Yves
+3, Passage Rimbaut
+78, Rue du Faubourg Saint-Jacques
+, Rue Adolphe Focillon
+22, Rue Lalande
+3, Rue Gauguet
+12, Rue Bézout
+3, Rue du Commandeur
+1, Rue Cabanis
+31, Rue du Couédic
+15, Rue Émile Dubois
+14, Villa Saint-Jacques
+32, Rue Dareau
+34, Rue Sarrette
+13, Villa Méridienne
+, Rue Leclerc
+, Rue du Père Corentin
+, Rue Jean-Claude Arnould
+1, Rue Marié-Davy
+5, Rue Froidevaux
+26, Rue Broussais
+, Boulevard Auguste Blanqui
+2, Square Henri Delormel
+16, Rue Mouton Duvernet
+, Rue Jean Minjoz
+26, Rue Henri Regnault
+2, Villa Louvat
+, Avenue de l'Observatoire
+6, Villa Cœur de Vey
+24, Rue d'Alembert
+, Rue Marguerin
+17 Ter, Rue de l'Aude
+, Voie C/14
+2, Rue Charles Divry
